@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/background.png</file>
+        <file>res/enemy1.png</file>
+        <file>res/enemy1_down1.png</file>
+        <file>res/enemy1_down2.png</file>
+        <file>res/enemy1_down3.png</file>
+        <file>res/enemy1_down4.png</file>
+        <file>res/enemy2.png</file>
+        <file>res/enemy2_down1.png</file>
+        <file>res/enemy2_down2.png</file>
+        <file>res/enemy2_down3.png</file>
+        <file>res/enemy2_down4.png</file>
+        <file>res/enemy2_hit.png</file>
+        <file>res/me_destroy_3.png</file>
+        <file>res/me1.png</file>
+        <file>res/me2.png</file>
+        <file>res/bullet2.png</file>
+        <file>music/enemy1_down.wav</file>
+        <file>music/game_music.wav</file>
+        <file>res/life_0.png</file>
+        <file>res/life_1.png</file>
+        <file>res/life_2.png</file>
+        <file>res/life_3.png</file>
+        <file>res/bomn.png</file>
+        <file>music/supply.wav</file>
+    </qresource>
+</RCC>

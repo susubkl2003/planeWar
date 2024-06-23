@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>music/enemy1_down.wav</file>
+        <file>music/game_music.wav</file>
+        <file>music/456.mp3</file>
+    </qresource>
+</RCC>
